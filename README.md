@@ -21,7 +21,7 @@ The dataset used for this data analysis project was downloaded from [kaggle](htt
 
 ## Exploratory Data Analysis
 
-### I worked on the exact same questions i worked on when i was doing the project using SQL.
+### I worked on the exact same questions i worked on when i was doing the project using [SQL](https://github.com/StephenTheAnalyst/Pizzas-sales-SQL).
 
  1. Retrieve the total number of orders placed.
  2. Calculate the total revenue generated from pizza sales.
@@ -36,3 +36,9 @@ The dataset used for this data analysis project was downloaded from [kaggle](htt
  11. Calculate the percentage contribution of each pizza type to total revenue.
  12. Analyze the cumulative revenue generated over time.
  13. Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
+## Results/Finding 
+
+### Click 👉[Here](https://github.com/StephenTheAnalyst/PizzasSalesPython/blob/main/Copy_of_PizzasSales.ipynb)👈 to view the solutions and results to the above Exploratory Data Analysis questions. 
+
+## Thanks ✌😊
